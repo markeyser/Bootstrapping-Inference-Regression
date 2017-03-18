@@ -1,4 +1,6 @@
-# Bootstrapping-Inference-Regression
+Title: Bootstrapping Inference in Regreesion
+Date: 2015-03-08
+Category: Blog
 
 #### Summary
 The purpose of this notebook is illustrate how apply bootstrap a confidence interval for the slope of the `MATH` independent variable in a multivariable regression environment using the `GENMOD` procedure in SAS.
